@@ -8,6 +8,10 @@ In the spirit of John Tukey a useful ascii plot of percentages proc plot
     https://tinyurl.com/2marypxe                                                                                   
     https://github.com/rogerjdeangelis/utl-in-the-spirit-of-John-Tukey-a-useful-ascii-plot-of-percentages-proc-plot
 
+    stackoverflow                                                                                                                
+    https://tinyurl.com/58ckyntn                                                                                                 
+    https://stackoverflow.com/questions/79237480/add-the-percentage-of-different-types-of-observations-in-a-geom-count-plot-in-gg
+
     If you have a good scanner and
     you ca even add pencilled annotation.
 
