@@ -4,6 +4,10 @@ In the spirit of John Tukey a useful ascii plot of percentages proc plot
 
     In the spirit of John Tukey a useful ascii plot of percentages proc plot
 
+    github                                                                                                         
+    https://tinyurl.com/2marypxe                                                                                   
+    https://github.com/rogerjdeangelis/utl-in-the-spirit-of-John-Tukey-a-useful-ascii-plot-of-percentages-proc-plot
+
     If you have a good scanner and
     you ca even add pencilled annotation.
 
